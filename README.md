@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Giải bài toán Người Du Lịch bằng phương pháp Quy hoạch Động (Held–Karp)</em><br/>
-  <small>Author: Hồng Phi Trường — MSSV: 2313703</small>
+  <small>Author: Hồng Phi Trường </small>
 </p>
 
 <hr/>
@@ -66,3 +66,4 @@ tổ hợp khó (NP-hard). Trong dự án này ta triển khai thuật toán <st
 <p align="center">
   <sub>Made with Phi Truong — If you want, I can add example inputs, visualization of the path, or complexity charts.</sub>
 </p>
+
